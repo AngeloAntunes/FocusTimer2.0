@@ -1,0 +1,1 @@
+export const floresta = new Audio('/assets/Floresta.wav');
